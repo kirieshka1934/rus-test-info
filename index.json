@@ -1,0 +1,9 @@
+{
+  "name": "Русский язык",
+  "themes": [
+    {
+      "name": "Ударения",
+      "file": "udareniya.json"
+    }
+  ]
+}
