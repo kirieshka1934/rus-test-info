@@ -10,24 +10,24 @@
       "file": "pravopisaniyesne.json"
     },
     {
-      "name": " Правописание гласных и согласных в корне слова",
-      "file": "pravopisaniyegl.jason"
+      "name": "Правописание корней",
+      "file": "pravopisaniyekor.json"
     },
     {
-      "name": "Ударения",
-      "file": "udareniya.json"
+      "name": "Правописание приставок",
+      "file": "pravopisaniyepris.json"
     },
     {
-      "name": "Ударения",
-      "file": "udareniya.json"
+      "name": "Правописание суффиксов (кроме -Н-/-НН-),
+      "file": "pravopisaniyesuf.json"
     },
     {
-      "name": "Ударения",
-      "file": "udareniya.json"
+      "name": "Правописание личных окончаний глаголов и суффиксов причастий",
+      "file": "pravopisaniyelichokonisuf.json"
     },
     {
-      "name": "Ударения",
-      "file": "udareniya.json"
+      "name": "Правописание -Н- и -НН- в суффиксах",
+      "file": "pravopisaniyeninn.json"
     },
   ]
 }
